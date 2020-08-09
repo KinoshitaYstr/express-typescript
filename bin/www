@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../output_js/app');
+var app = require('../dist/app');
 var debug = require('debug')('express-templete-for-typescript:server');
 var http = require('http');
 
